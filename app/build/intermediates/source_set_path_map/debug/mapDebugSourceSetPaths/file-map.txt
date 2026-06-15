@@ -1,0 +1,72 @@
+com.habittracker.app-runtime-saveable-release-0 C:\Users\eshan\.gradle\caches\transforms-4\01ecc89ba9848ed812c3b5ee8971e5bd\transformed\runtime-saveable-release\res
+com.habittracker.app-lifecycle-service-2.8.6-1 C:\Users\eshan\.gradle\caches\transforms-4\060d3750213b2a2cb8e58973aa4b6a2a\transformed\lifecycle-service-2.8.6\res
+com.habittracker.app-ui-tooling-data-release-2 C:\Users\eshan\.gradle\caches\transforms-4\069e163d2f9edda00e17e0f36fbb675e\transformed\ui-tooling-data-release\res
+com.habittracker.app-startup-runtime-1.1.1-3 C:\Users\eshan\.gradle\caches\transforms-4\0838661e4accd36b5faf92f6be3d3f81\transformed\startup-runtime-1.1.1\res
+com.habittracker.app-annotation-experimental-1.4.1-4 C:\Users\eshan\.gradle\caches\transforms-4\08ecd8e1912d9876dbad87729b2f2617\transformed\annotation-experimental-1.4.1\res
+com.habittracker.app-runtime-release-5 C:\Users\eshan\.gradle\caches\transforms-4\0a159b94a1c35ebc367c19b4ffebdf89\transformed\runtime-release\res
+com.habittracker.app-material-ripple-release-6 C:\Users\eshan\.gradle\caches\transforms-4\109e48c2f637a44c55a0a50b552cc81b\transformed\material-ripple-release\res
+com.habittracker.app-hilt-navigation-compose-1.2.0-7 C:\Users\eshan\.gradle\caches\transforms-4\1208b81a987522332c521947644ab828\transformed\hilt-navigation-compose-1.2.0\res
+com.habittracker.app-lifecycle-runtime-compose-release-8 C:\Users\eshan\.gradle\caches\transforms-4\16865f3ba035ba7ea95be64645c91235\transformed\lifecycle-runtime-compose-release\res
+com.habittracker.app-savedstate-ktx-1.2.1-9 C:\Users\eshan\.gradle\caches\transforms-4\27f65cc368f3c0e82ccfaffd7f776ef1\transformed\savedstate-ktx-1.2.1\res
+com.habittracker.app-material-icons-core-release-10 C:\Users\eshan\.gradle\caches\transforms-4\2eb0c65c36f29c1421192684fa6c6c59\transformed\material-icons-core-release\res
+com.habittracker.app-profileinstaller-1.3.1-11 C:\Users\eshan\.gradle\caches\transforms-4\305966ef89625c32b5bbcbba9ca54137\transformed\profileinstaller-1.3.1\res
+com.habittracker.app-lifecycle-livedata-core-2.8.6-12 C:\Users\eshan\.gradle\caches\transforms-4\38c61dbeeda5a3f72bd45566990926f2\transformed\lifecycle-livedata-core-2.8.6\res
+com.habittracker.app-ui-graphics-release-13 C:\Users\eshan\.gradle\caches\transforms-4\41bebd0bd1f2a8627b3ddd872097f687\transformed\ui-graphics-release\res
+com.habittracker.app-ui-tooling-release-14 C:\Users\eshan\.gradle\caches\transforms-4\422403895a1e9ef975f00a9724e34e83\transformed\ui-tooling-release\res
+com.habittracker.app-datastore-preferences-release-15 C:\Users\eshan\.gradle\caches\transforms-4\443480b431b94540bbf9e0def9d1e099\transformed\datastore-preferences-release\res
+com.habittracker.app-core-runtime-2.2.0-16 C:\Users\eshan\.gradle\caches\transforms-4\482dae1a295c8d8d03854c2b43f34e7a\transformed\core-runtime-2.2.0\res
+com.habittracker.app-activity-compose-1.9.2-17 C:\Users\eshan\.gradle\caches\transforms-4\4de751356653861cdd06683a012ed07e\transformed\activity-compose-1.9.2\res
+com.habittracker.app-material-release-18 C:\Users\eshan\.gradle\caches\transforms-4\4e807f8fbce9ba85acacf19045260249\transformed\material-release\res
+com.habittracker.app-customview-poolingcontainer-1.0.0-19 C:\Users\eshan\.gradle\caches\transforms-4\5f6c6f1ced748054497e3b137b5a594b\transformed\customview-poolingcontainer-1.0.0\res
+com.habittracker.app-emoji2-1.3.0-20 C:\Users\eshan\.gradle\caches\transforms-4\6530038dc3ba438a7b509f20f32a6501\transformed\emoji2-1.3.0\res
+com.habittracker.app-hilt-navigation-1.2.0-21 C:\Users\eshan\.gradle\caches\transforms-4\6539d9336c8f7d1d70d39a02fadba12a\transformed\hilt-navigation-1.2.0\res
+com.habittracker.app-core-1.13.1-22 C:\Users\eshan\.gradle\caches\transforms-4\6bd1e91de52c27a87fb25b78e24c4fbc\transformed\core-1.13.1\res
+com.habittracker.app-ui-unit-release-23 C:\Users\eshan\.gradle\caches\transforms-4\6ccff9a0cd73c3cfc6f6adb6582120d3\transformed\ui-unit-release\res
+com.habittracker.app-ui-util-release-24 C:\Users\eshan\.gradle\caches\transforms-4\6f41db950b32c06ecd02492e6aa1b03d\transformed\ui-util-release\res
+com.habittracker.app-ui-geometry-release-25 C:\Users\eshan\.gradle\caches\transforms-4\6f549823c4f04d13e703d43e1965e860\transformed\ui-geometry-release\res
+com.habittracker.app-foundation-layout-release-26 C:\Users\eshan\.gradle\caches\transforms-4\74332229058bcb1b5501f20bacedda3e\transformed\foundation-layout-release\res
+com.habittracker.app-core-ktx-1.13.1-27 C:\Users\eshan\.gradle\caches\transforms-4\7470432b393c82709de811bfc7b804dd\transformed\core-ktx-1.13.1\res
+com.habittracker.app-room-ktx-2.6.1-28 C:\Users\eshan\.gradle\caches\transforms-4\74b9a44d8db1072bbc5ffd28f1c06e23\transformed\room-ktx-2.6.1\res
+com.habittracker.app-lifecycle-livedata-core-ktx-2.8.6-29 C:\Users\eshan\.gradle\caches\transforms-4\76649cea0b0b238b99b3e8652a9f36ad\transformed\lifecycle-livedata-core-ktx-2.8.6\res
+com.habittracker.app-savedstate-1.2.1-30 C:\Users\eshan\.gradle\caches\transforms-4\796e4f6b5eb577d83299a5936b1dfb97\transformed\savedstate-1.2.1\res
+com.habittracker.app-lifecycle-livedata-2.8.6-31 C:\Users\eshan\.gradle\caches\transforms-4\7b63ee904808df5ac6b6cdd88cd0d29b\transformed\lifecycle-livedata-2.8.6\res
+com.habittracker.app-sqlite-framework-2.4.0-32 C:\Users\eshan\.gradle\caches\transforms-4\7c497567597de5ce37ec530312ca390e\transformed\sqlite-framework-2.4.0\res
+com.habittracker.app-fragment-1.5.1-33 C:\Users\eshan\.gradle\caches\transforms-4\7da132c1912be24a1a4b466b6bdd8c97\transformed\fragment-1.5.1\res
+com.habittracker.app-sqlite-2.4.0-34 C:\Users\eshan\.gradle\caches\transforms-4\80934ab0f0d4015d9207c7998cf85718\transformed\sqlite-2.4.0\res
+com.habittracker.app-datastore-core-release-35 C:\Users\eshan\.gradle\caches\transforms-4\80fec24af32156e503b19fbea68a72ed\transformed\datastore-core-release\res
+com.habittracker.app-lifecycle-viewmodel-compose-release-36 C:\Users\eshan\.gradle\caches\transforms-4\816e0bd9cb5b0ee50d3d4f8134d18518\transformed\lifecycle-viewmodel-compose-release\res
+com.habittracker.app-datastore-release-37 C:\Users\eshan\.gradle\caches\transforms-4\81ce40030c86de25947a1e27ebdfdf35\transformed\datastore-release\res
+com.habittracker.app-lifecycle-viewmodel-savedstate-2.8.6-38 C:\Users\eshan\.gradle\caches\transforms-4\8328ec453e90babb6ccc0a7094129937\transformed\lifecycle-viewmodel-savedstate-2.8.6\res
+com.habittracker.app-navigation-runtime-2.8.2-39 C:\Users\eshan\.gradle\caches\transforms-4\870b9c32803ebf1779b186ce6e643c77\transformed\navigation-runtime-2.8.2\res
+com.habittracker.app-foundation-release-40 C:\Users\eshan\.gradle\caches\transforms-4\9220dcade9da725f42142dccef003bd6\transformed\foundation-release\res
+com.habittracker.app-material-icons-extended-release-41 C:\Users\eshan\.gradle\caches\transforms-4\9381ea4d7e2764219763b6199dd4d72e\transformed\material-icons-extended-release\res
+com.habittracker.app-navigation-runtime-ktx-2.8.2-42 C:\Users\eshan\.gradle\caches\transforms-4\96d6824a25922e40b2e26dc87ced4af4\transformed\navigation-runtime-ktx-2.8.2\res
+com.habittracker.app-activity-1.9.2-43 C:\Users\eshan\.gradle\caches\transforms-4\9af4e5f2a5e9b0a98874497a988470b2\transformed\activity-1.9.2\res
+com.habittracker.app-lifecycle-runtime-release-44 C:\Users\eshan\.gradle\caches\transforms-4\a1b46b2933178003d520c16a6c3f48c0\transformed\lifecycle-runtime-release\res
+com.habittracker.app-navigation-common-2.8.2-45 C:\Users\eshan\.gradle\caches\transforms-4\ae90db306b6a7ecca95f8ee9135e24d5\transformed\navigation-common-2.8.2\res
+com.habittracker.app-navigation-common-ktx-2.8.2-46 C:\Users\eshan\.gradle\caches\transforms-4\b289432a766e95d09131e5f09a1d3608\transformed\navigation-common-ktx-2.8.2\res
+com.habittracker.app-work-runtime-ktx-2.9.1-47 C:\Users\eshan\.gradle\caches\transforms-4\b9b9c363b03aa1aa6ccfa35117fb7fa7\transformed\work-runtime-ktx-2.9.1\res
+com.habittracker.app-hilt-work-1.2.0-48 C:\Users\eshan\.gradle\caches\transforms-4\ba52b1655ea68b9538f50d9b6b21d052\transformed\hilt-work-1.2.0\res
+com.habittracker.app-ui-tooling-preview-release-49 C:\Users\eshan\.gradle\caches\transforms-4\bfcfc8c4a1a648d7b14edd2f5ac75d62\transformed\ui-tooling-preview-release\res
+com.habittracker.app-lifecycle-viewmodel-ktx-2.8.6-50 C:\Users\eshan\.gradle\caches\transforms-4\c01a07d75cb65cf1c9d443123586c415\transformed\lifecycle-viewmodel-ktx-2.8.6\res
+com.habittracker.app-navigation-compose-2.8.2-51 C:\Users\eshan\.gradle\caches\transforms-4\c0ffdb6373ab88eee096578850d30038\transformed\navigation-compose-2.8.2\res
+com.habittracker.app-lifecycle-process-2.8.6-52 C:\Users\eshan\.gradle\caches\transforms-4\c273878d0a31e0413f6b6ed838f5e9ac\transformed\lifecycle-process-2.8.6\res
+com.habittracker.app-graphics-path-1.0.1-53 C:\Users\eshan\.gradle\caches\transforms-4\c2c15490a1290d5eac7606390831902f\transformed\graphics-path-1.0.1\res
+com.habittracker.app-ui-test-manifest-1.7.3-54 C:\Users\eshan\.gradle\caches\transforms-4\c393710482eead91e89b3a16efe2e149\transformed\ui-test-manifest-1.7.3\res
+com.habittracker.app-ui-text-release-55 C:\Users\eshan\.gradle\caches\transforms-4\d09fa5c12534ff7908824894f7cd25b9\transformed\ui-text-release\res
+com.habittracker.app-ui-release-56 C:\Users\eshan\.gradle\caches\transforms-4\d0fb0be6ead14e6e531f401fbe0cffe1\transformed\ui-release\res
+com.habittracker.app-animation-release-57 C:\Users\eshan\.gradle\caches\transforms-4\d1843d7810f4dbd10c11cc491e842077\transformed\animation-release\res
+com.habittracker.app-material3-release-58 C:\Users\eshan\.gradle\caches\transforms-4\d267ff968671610de6a080351967e058\transformed\material3-release\res
+com.habittracker.app-activity-ktx-1.9.2-59 C:\Users\eshan\.gradle\caches\transforms-4\dc11e061ba3f97eab2216da0b4c7a85c\transformed\activity-ktx-1.9.2\res
+com.habittracker.app-animation-core-release-60 C:\Users\eshan\.gradle\caches\transforms-4\dd11d86a27d06ab30c16985a66c817a2\transformed\animation-core-release\res
+com.habittracker.app-lifecycle-runtime-ktx-release-61 C:\Users\eshan\.gradle\caches\transforms-4\e5769a548f030f21bd13e7d97161615a\transformed\lifecycle-runtime-ktx-release\res
+com.habittracker.app-room-runtime-2.6.1-62 C:\Users\eshan\.gradle\caches\transforms-4\f3df0043e83556bc8ac7c2ba7bb3a4a5\transformed\room-runtime-2.6.1\res
+com.habittracker.app-lifecycle-viewmodel-release-63 C:\Users\eshan\.gradle\caches\transforms-4\fb30c90adb9b30c301c727c1cbdff4bc\transformed\lifecycle-viewmodel-release\res
+com.habittracker.app-work-runtime-2.9.1-64 C:\Users\eshan\.gradle\caches\transforms-4\fb384fb05be258841badd64a16a3639f\transformed\work-runtime-2.9.1\res
+com.habittracker.app-pngs-65 C:\Users\eshan\Downloads\HabitTracker (1)\HabitTracker\app\build\generated\res\pngs\debug
+com.habittracker.app-resValues-66 C:\Users\eshan\Downloads\HabitTracker (1)\HabitTracker\app\build\generated\res\resValues\debug
+com.habittracker.app-packageDebugResources-67 C:\Users\eshan\Downloads\HabitTracker (1)\HabitTracker\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.habittracker.app-packageDebugResources-68 C:\Users\eshan\Downloads\HabitTracker (1)\HabitTracker\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.habittracker.app-debug-69 C:\Users\eshan\Downloads\HabitTracker (1)\HabitTracker\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.habittracker.app-debug-70 C:\Users\eshan\Downloads\HabitTracker (1)\HabitTracker\app\src\debug\res
+com.habittracker.app-main-71 C:\Users\eshan\Downloads\HabitTracker (1)\HabitTracker\app\src\main\res
