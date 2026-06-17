@@ -6,9 +6,9 @@ A clean, modern Android habit tracking app built with **Jetpack Compose** and **
 
 ## Screenshots
 
-<img width="1264" height="2636" alt="Screenshot_2026-06-15-23-01-34-46_b82c526a418a3d9dc3e2783cbfa8f133" src="https://github.com/user-attachments/assets/5b6059da-50cf-4043-9467-082f0a71852c" />
-<img width="1264" height="2653" alt="Screenshot_2026-06-15-23-02-03-20_b82c526a418a3d9dc3e2783cbfa8f133" src="https://github.com/user-attachments/assets/bd39563d-8ac7-41f5-9c44-e16ed9adcb16" />
-<img width="1264" height="2656" alt="Screenshot_2026-06-15-23-01-30-20_b82c526a418a3d9dc3e2783cbfa8f133" src="https://github.com/user-attachments/assets/675f3f3c-cad3-4ba1-b741-1358bfe4848d" />
+<img width="300" alt="Screenshot_2026-06-15-23-01-30-20" src="https://github.com/user-attachments/assets/675f3f3c-cad3-4ba1-b741-1358bfe4848d" />
+<img width="300" alt="Screenshot_2026-06-15-23-01-34-46" src="https://github.com/user-attachments/assets/5b6059da-50cf-4043-9467-082f0a71852c" />
+<img width="300" alt="Screenshot_2026-06-15-23-02-03-20" src="https://github.com/user-attachments/assets/bd39563d-8ac7-41f5-9c44-e16ed9adcb16" />
 
 
 ---
